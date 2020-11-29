@@ -46,7 +46,7 @@ html, body{
 #background{
     height: 100%;
     width: 100%;
-    background-image: url(images/lapi-background.jpg);
+    background-image: url(lapi-background.jpg);
     background-size: cover;
     background-position: top;
 }
